@@ -1,0 +1,4 @@
+#Example Properties File
+#Mon Jun 03 15:49:28 IST 2024
+nikhil=2
+bikash=1
